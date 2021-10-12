@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElRamdomizerNavComponent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tira_y_gana">Tira y gana!</string>
+    <string name="lanzar">Lanzar</string>
+    <string name="title">Random Games</string>
+</resources>
